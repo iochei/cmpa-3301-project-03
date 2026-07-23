@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bradley Ochei | Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="about.html">About Me</a></li>
+                <li><a href="portfolio.html">Projects</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="hero">
+            <h1>Bradley Ochei</h1>
+            <h2>Front-End Web Developer</h2>
+            <p>Welcome to my professional portfolio. I specialize in building clean, responsive user interfaces using HTML5, CSS3, and vanilla JavaScript.</p>
+        </section>
+
+        <section id="quick-links">
+            <h3>Explore My Work</h3>
+            <p>View my biography, technical skills, and project portfolio.</p>
+            <div class="button-group">
+                <a href="about.html" class="btn">About Me</a>
+                <a href="portfolio.html" class="btn">View Projects</a>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 Bradley Ochei</p>
+    </footer>
+
+</body>
+</html>
